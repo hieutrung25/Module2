@@ -1,10 +1,10 @@
 public class Customer {
-        private String Id;
-        private String name;
-        private int age;
-        private int gender;
-        private String address;
-        private String phone;
+    private String Id;
+    private String name;
+    private int age;
+    private int gender;
+    private String address;
+    private String phone;
 
     public Customer(String Id, String name, int age, int gender, String address, String phone) {
         this.Id = Id;
@@ -75,3 +75,4 @@ public class Customer {
                 '}';
     }
 }
+

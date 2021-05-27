@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         CustomerManagement customerManagement = new CustomerManagement();
-        Customer customer1 = new Customer("C1", "Tiến", 28, 1, "Hải Phòng","0123456789" );
-        Customer customer2 = new Customer("C2", "Sơn", 22, 1, "Thái Bình","0123456979" );
-        Customer customer3 = new Customer("C3", "Tuấn Anh", 28, 1, "Nam Định","0123654789" );
-        Customer customer4 = new Customer("C4", "Trường", 27, 1, "Thái Bình","0132456789" );
+        Customer customer1 = new Customer("C1", "Tiến", 28, 1, "Hải Phòng", "0123456789");
+        Customer customer2 = new Customer("C2", "Sơn", 22, 1, "Thái Bình", "0123456979");
+        Customer customer3 = new Customer("C3", "Tuấn Anh", 28, 1, "Nam Định", "0123654789");
+        Customer customer4 = new Customer("C4", "Trường", 27, 1, "Thái Bình", "0132456789");
         customerManagement.getCustomerMap().put(customer1.getId(), customer1);
         customerManagement.getCustomerMap().put(customer2.getId(), customer2);
         customerManagement.getCustomerMap().put(customer3.getId(), customer3);
