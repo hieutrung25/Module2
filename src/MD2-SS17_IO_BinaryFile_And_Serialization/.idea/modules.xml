@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Copy-File-Nhi-Phan/Copy-File-Nhi-Phan.iml" filepath="$PROJECT_DIR$/Copy-File-Nhi-Phan/Copy-File-Nhi-Phan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copy-file-dung-luong-lon/Copy-file-dung-luong-lon.iml" filepath="$PROJECT_DIR$/Copy-file-dung-luong-lon/Copy-file-dung-luong-lon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Docvaghi-danhsach-Sinhvien-file-nhiphan/Docvaghi-danhsach-Sinhvien-file-nhiphan.iml" filepath="$PROJECT_DIR$/Docvaghi-danhsach-Sinhvien-file-nhiphan/Docvaghi-danhsach-Sinhvien-file-nhiphan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD2-SS17_IO_BinaryFile_And_Serialization.iml" filepath="$PROJECT_DIR$/.idea/MD2-SS17_IO_BinaryFile_And_Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quan-ly-san-pham-file-nhiphan/Quan-ly-san-pham-file-nhiphan.iml" filepath="$PROJECT_DIR$/Quan-ly-san-pham-file-nhiphan/Quan-ly-san-pham-file-nhiphan.iml" />
+    </modules>
+  </component>
+</project>
