@@ -17,7 +17,8 @@ public class Main {
                     int option1 = customerManagement.checkInputType(option);
                     switch (option1) {
                         case 1:
-                            Customer customer = customerManagement.searchCustomerByID();
+                            Customer customer;
+                            customer = customerManagement.searchCustomerByID();
                             if (customer == null) {
                                 System.out.println("No information!");
                             } else {
