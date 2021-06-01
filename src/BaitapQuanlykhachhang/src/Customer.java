@@ -78,17 +78,17 @@ public class Customer {
 
     @Override
     public String toString() {
-        String sex = "";
+        String gioiTinh = "";
         if (getGender() == 1) {
-            sex = "Nam";
+            gioiTinh = "Nam";
         } else if (getGender() == 2) {
-            sex = "Nu";
+            gioiTinh = "Nu";
         }
         return "Customer{" +
                 "cusId: '" + cusId + '\'' +
                 ", name: '" + name + '\'' +
                 ", age: " + age +
-                ", gender: " + sex +
+                ", gender: " + gioiTinh +
                 ", address: '" + address + '\'' +
                 ", job: '" + job + '\'' +
                 ", phone: '" + phone + '\'' +

@@ -130,11 +130,11 @@ public class CustomerManagement {
 
     public void searchCustomerByGender() {
         System.out.print("Enter searching gender: ");
-        String sex = scanner.nextLine();
+        String gioiTinh = scanner.nextLine();
         int gender = 0;
-        if (sex.equals("nam")) {
+        if (gioiTinh.equals("nam")) {
             gender = 1;
-        } else if (sex.equals("nữ")) {
+        } else if (gioiTinh.equals("nữ")) {
             gender = 2;
         }
         keys = customerMap.keySet();
@@ -357,11 +357,11 @@ public class CustomerManagement {
         } while (!confirm.equalsIgnoreCase("Y") && !confirm.equalsIgnoreCase("N"));
     }
 
-    public int changeGender(String sex) {
+    public int changeGender(String gioiTinh) {
         int gender = 0;
-        if (sex.equalsIgnoreCase("Nam")) {
+        if (gioiTinh.equalsIgnoreCase("Nam")) {
             gender = 1;
-        } else if (sex.equalsIgnoreCase("Nu")) {
+        } else if (gioiTinh.equalsIgnoreCase("Nu")) {
             gender = 2;
         }
         return gender;
