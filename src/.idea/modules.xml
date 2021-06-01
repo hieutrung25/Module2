@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaitapQuanlykhachhang/BaitapQuanlykhachhang.iml" filepath="$PROJECT_DIR$/BaitapQuanlykhachhang/BaitapQuanlykhachhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Copy-File-Nhi-Phan/Copy-File-Nhi-Phan.iml" filepath="$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Copy-File-Nhi-Phan/Copy-File-Nhi-Phan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Copy-file-dung-luong-lon/Copy-file-dung-luong-lon.iml" filepath="$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Copy-file-dung-luong-lon/Copy-file-dung-luong-lon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Demo/Demo.iml" filepath="$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Docvaghi-danhsach-Sinhvien-file-nhiphan/Docvaghi-danhsach-Sinhvien-file-nhiphan.iml" filepath="$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Docvaghi-danhsach-Sinhvien-file-nhiphan/Docvaghi-danhsach-Sinhvien-file-nhiphan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Quan-ly-san-pham-file-nhiphan/Quan-ly-san-pham-file-nhiphan.iml" filepath="$PROJECT_DIR$/MD2-SS17_IO_BinaryFile_And_Serialization/Quan-ly-san-pham-file-nhiphan/Quan-ly-san-pham-file-nhiphan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+    </modules>
+  </component>
+</project>
