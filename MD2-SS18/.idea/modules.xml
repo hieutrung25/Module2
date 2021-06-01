@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Create-Thread-Simple/Create-Thread-Simple.iml" filepath="$PROJECT_DIR$/Create-Thread-Simple/Create-Thread-Simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MD2-SS18.iml" filepath="$PROJECT_DIR$/.idea/MD2-SS18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Create-Thread-Simple/NumberGenerator.iml" filepath="$PROJECT_DIR$/Create-Thread-Simple/NumberGenerator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Running-Car/Running-Car.iml" filepath="$PROJECT_DIR$/Running-Car/Running-Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/XayDungUngDungDemSo/XayDungUngDungDemSo.iml" filepath="$PROJECT_DIR$/XayDungUngDungDemSo/XayDungUngDungDemSo.iml" />
