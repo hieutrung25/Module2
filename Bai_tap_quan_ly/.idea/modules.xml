@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/00_BaitapQuanlykhachhang/00_BaitapQuanlykhachhang.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/00_BaitapQuanlykhachhang/00_BaitapQuanlykhachhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/00_Baitapthem/00_Baitapthem.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/00_Baitapthem/00_Baitapthem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/01_B1_TrienkhaiStacksudunglopLinkedList/01_B1_TrienkhaiStacksudunglopLinkedList.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/01_B1_TrienkhaiStacksudunglopLinkedList/01_B1_TrienkhaiStacksudunglopLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/02_B2_TrienkhaiQueuesudungdanhsachlienket/02_B2_TrienkhaiQueuesudungdanhsachlienket.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/02_B2_TrienkhaiQueuesudungdanhsachlienket/02_B2_TrienkhaiQueuesudungdanhsachlienket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/03_B3_DaonguocphantusudungStack/03_B3_DaonguocphantusudungStack.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/03_B3_DaonguocphantusudungStack/03_B3_DaonguocphantusudungStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/04_B4_Demsolanxuathiencuamoitu/04_B4_Demsolanxuathiencuamoitu.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/04_B4_Demsolanxuathiencuamoitu/04_B4_Demsolanxuathiencuamoitu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/05_B5_TrienkhaiQueuesudunglienketvong/05_B5_TrienkhaiQueuesudunglienketvong.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/05_B5_TrienkhaiQueuesudunglienketvong/05_B5_TrienkhaiQueuesudunglienketvong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/06_B6_TrienkhaiQueuesudungmang/06_B6_TrienkhaiQueuesudungmang.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/06_B6_TrienkhaiQueuesudungmang/06_B6_TrienkhaiQueuesudungmang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/07_B7_TrienkhaiStacksudungmang/07_B7_TrienkhaiStacksudungmang.iml" filepath="$PROJECT_DIR$/11_Module2_DSA_StackAndQueue/07_B7_TrienkhaiStacksudungmang/07_B7_TrienkhaiStacksudungmang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bai_tap_quan_ly.iml" filepath="$PROJECT_DIR$/.idea/Bai_tap_quan_ly.iml" />
+    </modules>
+  </component>
+</project>
