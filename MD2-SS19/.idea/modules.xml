@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Vailidate Email/Vailidate Email.iml" filepath="$PROJECT_DIR$/Vailidate Email/Vailidate Email.iml" />
       <module fileurl="file://$PROJECT_DIR$/Validate Account/Validate Account.iml" filepath="$PROJECT_DIR$/Validate Account/Validate Account.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidateClassName/ValidateClassName.iml" filepath="$PROJECT_DIR$/ValidateClassName/ValidateClassName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidatePhoneNumber/ValidatePhoneNumber.iml" filepath="$PROJECT_DIR$/ValidatePhoneNumber/ValidatePhoneNumber.iml" />
     </modules>
   </component>
 </project>
